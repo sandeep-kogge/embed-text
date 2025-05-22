@@ -1,0 +1,4 @@
+transformers
+torch
+sentence-transformers
+hf_xet
